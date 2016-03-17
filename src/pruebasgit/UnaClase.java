@@ -10,5 +10,6 @@ package pruebasgit;
  * @author Jesús
  */
 public class UnaClase {
+    int i;
     
 }
