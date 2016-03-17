@@ -45,7 +45,7 @@ public class PruebasGit {
                 int j = 0;
                 float f;
                 int z, zzz;
-                double dd;
+           
             }
         });
     }
