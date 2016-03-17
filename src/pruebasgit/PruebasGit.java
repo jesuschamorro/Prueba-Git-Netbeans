@@ -44,7 +44,7 @@ public class PruebasGit {
                 new VentanaPrincipal().setVisible(true);
                 int j = 0;
                 float f;
-                int z, zzz;
+              
            
             }
         });
