@@ -42,6 +42,9 @@ public class PruebasGit {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new VentanaPrincipal().setVisible(true);
+                int j = 0;
+                float f;
+                int z, zzz;
             }
         });
     }
