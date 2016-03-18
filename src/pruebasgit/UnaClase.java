@@ -11,5 +11,8 @@ package pruebasgit;
  */
 public class UnaClase {
     int i=1;
-    float zz;
+    
+    void Metodo(){
+        i = 8;
+    }
 }
