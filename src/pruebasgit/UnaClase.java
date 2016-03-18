@@ -10,6 +10,6 @@ package pruebasgit;
  * @author Jesús
  */
 public class UnaClase {
-    int i;
-    
+    int i=1;
+    float zz;
 }
