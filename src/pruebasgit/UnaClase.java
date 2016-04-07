@@ -13,6 +13,10 @@ public class UnaClase {
     int i=1;
     
     void Metodo(){
-        i = 8;
+        i = 9;
+    }
+    
+    void Metodo2(){
+        i = 9;
     }
 }
