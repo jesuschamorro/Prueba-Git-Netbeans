@@ -15,8 +15,4 @@ public class UnaClase {
     void Metodo(){
         i = 9;
     }
-    
-    void Metodo2(){
-        i = 9;
-    }
 }
